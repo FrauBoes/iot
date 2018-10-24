@@ -1,0 +1,13 @@
+2018-10-19 12:41:57.097937 No reading available
+2018-10-19 12:42:02.092419	Temperature=22, Humidity=56%
+2018-10-19 12:42:07.093413 No reading available
+2018-10-19 12:42:12.099150 No reading available
+2018-10-19 12:42:17.093496 No reading available
+2018-10-19 12:42:22.093478 No reading available
+2018-10-19 12:42:27.093474 No reading available
+2018-10-19 12:42:32.093464 No reading available
+2018-10-19 12:42:37.097486 No reading available
+2018-10-19 12:42:42.097893 No reading available
+2018-10-19 12:42:47.093433 No reading available
+2018-10-19 12:42:52.093441 No reading available
+2018-10-19 12:42:57.093694 No reading available

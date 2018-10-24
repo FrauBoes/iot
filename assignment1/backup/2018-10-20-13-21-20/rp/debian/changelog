@@ -1,0 +1,6 @@
+schedule (0.3.2-1) unstable; urgency=low
+
+  [ Donncha O'Cearbhaill ]
+  * Inital release (Closes: #806134).
+
+ -- Federico Ceratto <federico@debian.org>  Sat, 12 Dec 2015 13:11:13 +0000
