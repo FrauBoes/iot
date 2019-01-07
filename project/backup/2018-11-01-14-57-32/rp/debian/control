@@ -1,0 +1,42 @@
+Source: schedule
+Maintainer: Donncha O'Cearbhaill <donncha@donncha.is>
+Uploaders: Federico Ceratto <federico@debian.org>
+Section: python
+Priority: optional
+Build-Depends: debhelper (>= 9),
+               dh-python,
+               python-all (>= 2.6.6-3),
+               python-setuptools,
+               python-mock,
+               python3-all,
+               python3-setuptools,
+               python3-mock,
+Standards-Version: 3.9.6
+Homepage: https://github.com/dbader/schedule
+X-Python-Version: >= 2.7
+X-Python3-Version: >= 3.4
+Vcs-Browser: https://anonscm.debian.org/gitweb/?p=collab-maint/python-schedule.git
+Vcs-Git: git://anonscm.debian.org/collab-maint/python-schedule.git
+
+Package: python-schedule
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Provides: ${python:Provides}
+Description: Job scheduling for humans (Python 2)
+ An in-process scheduler for periodic jobs that uses the builder pattern
+ for configuration. Schedule lets you run Python functions (or any other
+ callable) periodically at pre-determined intervals using a simple,
+ human-friendly syntax.
+
+Package: python3-schedule
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Provides: ${python3:Provides}
+Description: Job scheduling for humans (Python 3)
+ An in-process scheduler for periodic jobs that uses the builder pattern
+ for configuration. Schedule lets you run Python functions (or any other
+ callable) periodically at pre-determined intervals using a simple,
+ human-friendly syntax.
+ .
+ This package contains the Python 3 version of the library.
+
