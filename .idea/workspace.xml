@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f41d1e3a-0054-4b12-8cc6-96700779d289" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/backup/2018-11-22-11-01-31/rp/paho.mqtt.python" beforeDir="false" afterPath="$PROJECT_DIR$/project/backup/2018-11-22-11-01-31/rp/paho.mqtt.python" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/backup/2018-11-22-13-00-30/rp/paho.mqtt.python" beforeDir="false" afterPath="$PROJECT_DIR$/project/backup/2018-11-22-13-00-30/rp/paho.mqtt.python" afterDir="false" />
     </list>
@@ -75,8 +76,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="626">
-              <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+            <state relative-caret-position="250">
+              <caret line="84" column="14" lean-forward="true" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -144,10 +145,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="204" />
-    <option name="y" value="22" />
-    <option name="width" value="1348" />
-    <option name="height" value="778" />
+    <option name="x" value="1052" />
+    <option name="y" value="66" />
+    <option name="width" value="805" />
+    <option name="height" value="833" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -328,7 +329,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="204" y="22" width="1348" height="778" extended-state="0" />
+    <frame x="1052" y="66" width="805" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -338,7 +339,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31008902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25093168" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32892805" />
@@ -502,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+        <state relative-caret-position="250">
+          <caret line="84" column="14" lean-forward="true" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="14" />
         </state>
       </provider>
     </entry>
